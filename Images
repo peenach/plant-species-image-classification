@@ -1,3 +1,0 @@
-git rm -r Images
-git commit -m "Remove Images directory"
-git push
