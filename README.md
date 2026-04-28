@@ -270,10 +270,10 @@ Answer:
   See [Section E: Model Testing](#e-model-testing) for all screenshots.
 
 - [x] **Model exported and saved**  
-  Exported model files are in the [`models/`](models/) folder.
+  Exported model files are in the [`Exported/`](Exported/) folder.
 
 - [x] **GitHub repository with complete README.md**  
   You are currently viewing it here! ✅
 
 - [x] **All files and screenshots uploaded and documented**  
-  Check [`images/`](images/), [`models/`](models/), [`model_training_details/`](model_training_details/) and [`preview_test_images/`](preview_test_images/) folders for completeness.
+  Check [`images/`](images/), [`Exported/`](Exported/), [`training_model_test/`](training_model_test/) and [`preview_test/`](preview_test/) folders for completeness.
